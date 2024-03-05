@@ -6,7 +6,7 @@ metadata:
   annotations:
     github.com/project-slug: efidemos/sqtest6
     sonarqube.org/project-key: sqtest6
-    jenkins.io/job-full-name: testing
+    jenkins.io/job-full-name: testi
 spec:
   type: sq-repository
   lifecycle: experimental
